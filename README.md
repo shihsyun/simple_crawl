@@ -3,3 +3,12 @@
 
 1. 練習用最簡單的request+beautifulSoup抓取ptt Beauty圖檔
 2. 練習click用法
+
+Usage: beautify_crawler.py [OPTIONS]
+
+Options:
+  --verbose          Will print verbose messages.
+  --download TEXT    download directory loaction.
+  --numbers INTEGER  Number of download images, default is 100.
+  --rate INTEGER     Number of push rates, default is 10.
+  --help             Show this message and exit.
