@@ -5,7 +5,7 @@
 2. 練習click用法
 
 <pre>
-Usage: beautify_crawler.py [OPTIONS]
+Usage: simple_crawl.py [OPTIONS]
 
 Options:
   --verbose          Will print verbose messages.
