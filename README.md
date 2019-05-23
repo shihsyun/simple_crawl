@@ -4,6 +4,7 @@
 1. 練習用最簡單的request+beautifulSoup抓取ptt Beauty圖檔
 2. 練習click用法
 
+<p>
 Usage: beautify_crawler.py [OPTIONS]
 
 Options:
@@ -12,3 +13,4 @@ Options:
   --numbers INTEGER  Number of download images, default is 100.
   --rate INTEGER     Number of push rates, default is 10.
   --help             Show this message and exit.
+</P>
